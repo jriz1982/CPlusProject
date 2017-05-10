@@ -39,7 +39,7 @@ public:
 
 			//--Question 6: show how you would create const members function
 
-	void printBalance();
+	void printBalance() const;
 
 	//prints first and last name
 	void printName();
