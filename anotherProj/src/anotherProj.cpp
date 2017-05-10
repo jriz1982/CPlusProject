@@ -1,9 +1,5 @@
 //============================================================================
-// Name        : anotherProj.cpp
 // Author      : Richard Brown
-// Version     :
-// Copyright   : Copyright 2016-2017
-// Description : Hello World in C++, Ansi-style
 //============================================================================
 #include "Account.h"
 #include <iostream>
