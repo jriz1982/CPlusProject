@@ -103,7 +103,7 @@ int main() {
 		 double amount = 0;
 
 		 while (true) {
-			 cout << "			MAIN MENU " << endl;
+			 cout << " MAIN MENU " << endl;
 			 cout << "Enter Your User I.D (0 - 9) " << endl;
 			 cin >> userId;
 			 cout << "Thank you for your entry ";
