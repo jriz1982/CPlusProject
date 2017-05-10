@@ -1,11 +1,7 @@
 /*
- * account.cpp
- *
- *  Created on: May 9, 2017
  *      Author: Rich
  */
 #include "Account.h"
-
 
 //constructor
 Account::Account()
